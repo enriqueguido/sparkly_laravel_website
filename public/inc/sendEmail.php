@@ -1,10 +1,10 @@
 ﻿<?php
 
-$siteOwnersEmail = 'info@sparklyhouse.com';
+$siteOwnersEmail = 'lssparkly@yahoo.com';
 
 if(isset($_POST)) {
 
-    $siteOwnersEmail = 'info@sparklyhouse.com';
+    $siteOwnersEmail = 'lssparkly@yahoo.com';
     $name = trim(stripslashes($_POST['contactName']));
     $email = trim(stripslashes($_POST['contactEmail']));
     $subject = trim(stripslashes($_POST['contactSubject']));
