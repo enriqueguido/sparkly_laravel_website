@@ -738,7 +738,7 @@
 
                 <div class="subscribe-form">
                     <!-- <form id="mc-form" class="group" novalidate="true"> -->
-                    <form action="https://formspree.io/lssparkly@gmail.com" method="POST" />
+                    <form id="mc-form" action="https://formspree.io/lssparkly@gmail.com" method="POST" />
                         <input type="email" value="" name="EMAIL" class="email" id="mc-email" placeholder="Email Address" required="">
                         <input type="submit" name="subscribe" value="Subscribe">
                         <label for="mc-email" class="subscribe-message"></label>
