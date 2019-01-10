@@ -621,7 +621,8 @@
 
                 <h3 class="h6">Send Us A Message</h3>
 
-                <form name="contactForm" id="contactForm" method="post" action="" novalidate="novalidate">
+                <!-- <form name="contactForm" id="contactForm" method="POST" action="https://formspree.io/lssparkly@gmail.com" novalidate="novalidate"> -->
+                  <form action="https://formspree.io/lssparkly@gmail.com" method="POST" />
                     <fieldset>
 
                     <div class="form-field">
